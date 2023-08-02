@@ -4,9 +4,10 @@ const users = [
     password:"sdfgHGBN%!9062"
 },
 {
-    email:"vbst@gmail.com",
-    password:"sdfgHGB%!0033"
+    email:"tstrtt@gmail.com",
+    password:"$2b$10$qnRHHNXukHJFgEbx/d0Kg.NEMv.unEIAfN5n/3bDKWAi0t.smHESy"
 },
+
 ]
 
 
